@@ -1,3 +1,5 @@
+<img src="logo_new_v3.png">
+
 # Project-Vanguard-Website 
 ### Brought to you by WallKick Games™
 
