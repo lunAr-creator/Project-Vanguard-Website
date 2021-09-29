@@ -1,4 +1,4 @@
-<img src="logo_new_v3.png">
+<img src="logo_new_v3.png" width="400">
 
 # Project-Vanguard-Website 
 ### Brought to you by WallKick Games™
