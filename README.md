@@ -1,8 +1,10 @@
-# Project-Vanguard-Website
+# Project-Vanguard-Website 
+### Brought to you by WallKick Games™
+
 > **_Note:_** This is the website for the game Project Vanguard. It is being made using HTML, CSS and Javascript. 
 If you wish to contribute, please open a pull request with your changes for approval. 
 ```
-Website link will not be provided for people other than devs within the team at WallKick Games™ until the it is ready.
+Website link will not be provided for people other than devs until the website is ready.
 ```
 
 ## The team developing the website
@@ -23,3 +25,4 @@ The site will be detailing the following info about the game:
   <li> Download (Seperate page)  </li>
   <li> Contact (Seperate page) </li>
 </ul>
+
