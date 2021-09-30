@@ -12,7 +12,7 @@ Website link will not be provided for people other than devs until the website i
 ## The team developing the website
 <ul>
   <li> Numens </li>
-  <li> r0nnyn </li>
+  <li> r0nyyn </li>
 </ul>
 
 ## Further Details
