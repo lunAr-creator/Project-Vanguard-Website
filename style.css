@@ -169,6 +169,14 @@
   .navbar.show .menu-list li a{
     margin-left: 0px;
   }
+
+  .navbar .logo a span {
+    display: none;
+  }
+
+  .navbar .logo a:after {
+    content: "Project Vanguard";
+  }
 }
 @media (max-width: 380px) {
   .navbar .logo a{
