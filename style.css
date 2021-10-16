@@ -410,8 +410,6 @@ ul{
 /* #FOOTER-BOTTOM======================================================== */
 
 .footer_bottom {
-  left: 0;
-  bottom: 0;
   width: 100%;
   background-color: #1b1b1b;
   color: white;
@@ -422,8 +420,6 @@ ul{
 
 @media screen and (max-width:800px) {
   .footer_bottom {
-    left: 0;
-    bottom: 0;
     width: 100%;
     text-align: center;
     padding-top: 8px;
