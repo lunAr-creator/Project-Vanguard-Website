@@ -52,7 +52,7 @@
 .navbar .logo a{
   color: #fff;
   font-size: 30px;
-  font-weight: 600;
+  font-weight: 480;
   text-decoration: none;
 }
 
@@ -71,7 +71,7 @@
 .menu-list li a{
   color: #fff;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 400;
   margin-left: 25px;
   text-decoration: none;
   transition: all 0.3s ease;
@@ -207,7 +207,7 @@
 
 .centered {
   position: absolute;
-  top: 45%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -247,7 +247,7 @@
 
   .main {
     font-size: 40;
-    font-weight: 500;
+    font-weight: 410;
   }
 
   .studio {
