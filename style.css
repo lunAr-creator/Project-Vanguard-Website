@@ -56,6 +56,10 @@
   text-decoration: none;
 }
 
+.navbar .logo img{
+  width: 300px;
+}
+
 /*.navbar .logo a @font-face {
   font-family: 'Future Z'; src: url('FUTUREZ.TTF');
   font-family: 'Furute Z';
@@ -178,6 +182,10 @@
   /* .navbar .logo a:after {
     content: "Project Vanguard";
   } */
+
+  .navbar .logo img {
+    width: 280px;
+  }
 }
 @media (max-width: 380px) {
   .navbar .logo a{
