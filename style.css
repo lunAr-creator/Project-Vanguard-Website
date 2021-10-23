@@ -191,6 +191,11 @@
   .navbar .logo a{
     font-size: 27px;
   }
+
+  .navbar .logo img {
+    padding-bottom: 0;
+    width: 278px;
+  }
 }
 
 /*#MY_STUFF=====================================================================*/
