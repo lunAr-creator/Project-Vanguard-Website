@@ -185,6 +185,7 @@
 
   .navbar .logo img {
     width: 280px;
+    padding-bottom: 1px;
   }
 }
 @media (max-width: 380px) {
@@ -193,8 +194,8 @@
   }
 
   .navbar .logo img {
-    padding-bottom: 0;
     width: 278px;
+    padding-bottom: 0px;
   }
 }
 
