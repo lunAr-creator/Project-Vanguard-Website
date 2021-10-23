@@ -1,6 +1,6 @@
 <img src="logo.png" width="400">
 
-# Project-Vanguard-Website 
+# Project-Vanguard-Website [![Netlify Status](https://api.netlify.com/api/v1/badges/a16206a5-e3bb-4a04-bfb8-f4d00dc5c642/deploy-status)](https://app.netlify.com/sites/project-vanguard/deploys)
 ### Brought to you by WallKick Games™
 
 > **_Note:_** This is the website for the game Project Vanguard. It is being made using HTML, CSS and Javascript. 
