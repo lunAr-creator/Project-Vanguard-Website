@@ -175,9 +175,9 @@
     display: none;
   }
 
-  .navbar .logo a:after {
+  /* .navbar .logo a:after {
     content: "Project Vanguard";
-  }
+  } */
 }
 @media (max-width: 380px) {
   .navbar .logo a{
@@ -329,6 +329,11 @@ ul{
   position: relative;
 }
 
+.logo_2 {
+  height: 200px;
+  width: 350px;
+}
+
 @media (max-width: 1230px) {
   .footer-col{
     padding: 0 60px;
@@ -351,6 +356,11 @@ ul{
 
   .centered-logo {
     top: 63%;
+  }
+
+  .logo_2 {
+    height: auto;
+    width: 100%;
   }
 }
 
