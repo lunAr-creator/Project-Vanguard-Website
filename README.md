@@ -1,13 +1,14 @@
-<!-- <img src="logo.png" width="400"> -->
+<img src="logo.png" width="400">
 
 # Project-Vanguard-Website [![Netlify Status](https://api.netlify.com/api/v1/badges/a16206a5-e3bb-4a04-bfb8-f4d00dc5c642/deploy-status)](https://app.netlify.com/sites/project-vanguard/deploys)
 ### Brought to you by WallKick Games™
 
 > **_Note:_** This is the website for the game Project Vanguard. It is being made using HTML, CSS and Javascript. 
 If you wish to contribute, please open a pull request with your changes for approval. 
-```
-Website link will not be provided for people other than devs until the website is ready.
-```
+
+<br>
+<a href="https://project-vanguard.netlify.app" target="_blank">project-vanguard.netlify.app</a>
+
 
 ## The team developing the website
 <ul>
