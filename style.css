@@ -589,6 +589,7 @@ ul{
 	text-decoration: none;
 	background: #D10F16;
 	padding: 15px;
+  margin-top: 20px;
 	border-radius: 5px;
 	display: inline-block;
 	border: none;
@@ -604,4 +605,45 @@ ul{
 	-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
 	box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
 	transition: all 0.4s ease 0s;
+}
+
+
+#showcase{
+  background-image: url('https://project-vanguard.netlify.app/backgrounds/background2.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+  height: 100vh;
+}
+
+#showcase h1{
+  font-size: 50px;
+  line-height: 1.2;
+  color: white;
+}
+
+#showcase p{
+  font-size: 20px;
+  color: white;
+}
+
+#showcase .button{
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+  border: #f1c40f 1px solid;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  transition: 0.1s ease-in;
+}
+
+#showcase .button:hover{
+  transition: 0.1s ease-in;
+  letter-spacing: 1px;
 }
