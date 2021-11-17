@@ -735,3 +735,8 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
   font-size: 1.5rem;
   text-transform: capitalize;
 }
+
+.card:hover {
+  box-shadow: 10px 10px 5px #888888;
+  transition: 0.4s ease;
+}
