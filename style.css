@@ -672,6 +672,16 @@ ul{
   gap: 2rem;
 }
 
+.container,
+.container::before,
+.container::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  margin-bottom: 10px;
+}
+
 .card img {
   max-width: 100%;
   display: block;
@@ -689,7 +699,7 @@ ul{
   background: linear-gradient(to right, #FFFFFF, #ECE9E6);
   margin-top: 20px;
   margin-right: 20px;
-  transitionP: 0.4s ease;
+  transition: 0.4s ease;
 }
 
 
