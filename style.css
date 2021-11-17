@@ -689,6 +689,7 @@ ul{
   background: linear-gradient(to right, #FFFFFF, #ECE9E6);
   margin-top: 20px;
   margin-right: 20px;
+  transitionP: 0.4s ease;
 }
 
 
@@ -727,7 +728,6 @@ background: linear-gradient(to bottom, #FFD194, #D1913C);
 
 .tag-red {
   background: #cb2d3e;
-background: linear-gradient(to bottom, #ef473a, #cb2d3e);
   color: #fafafa;
 }
 
