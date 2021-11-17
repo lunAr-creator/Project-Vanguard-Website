@@ -663,7 +663,7 @@ ul{
 }
 
 
-.container {
+.container2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -672,9 +672,9 @@ ul{
   gap: 2rem;
 }
 
-.container,
-.container::before,
-.container::after {
+.container2,
+.container2::before,
+.container2::after {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
