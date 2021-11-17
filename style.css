@@ -737,6 +737,6 @@ background: linear-gradient(to bottom, #ef473a, #cb2d3e);
 }
 
 .card:hover {
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
   transition: 0.4s ease;
 }
