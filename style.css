@@ -84,7 +84,7 @@
   color: #D10F16;
 }
 .banner{
-  background: url("backgrounds/background2.jpg") no-repeat;
+  background: url("backgrounds/what_happened.png") no-repeat;
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -636,7 +636,7 @@ ul{
 }
 
 #showcase2{
-  background-image: url('https://project-vanguard.netlify.app/backgrounds/arena.png');
+  background-image: url('https://project-vanguard.netlify.app/backgrounds/what_happened.png');
   background-size: cover;
   background-position: center;
   display: flex;
