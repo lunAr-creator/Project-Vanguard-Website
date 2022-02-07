@@ -84,7 +84,7 @@
   color: #D10F16;
 }
 .banner{
-  background: url("backgrounds/what_happend.jpg") no-repeat;
+  background: url("backgrounds/what_happend.png") no-repeat;
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -622,8 +622,8 @@ ul{
 }
 
 
-#showcase{
-  background-image: url('https://project-vanguard.netlify.app/backgrounds/what_happened.png');
+.showcase{
+  background-image: url('backgrounds/what_happend.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -636,7 +636,7 @@ ul{
 }
 
 #showcase2{
-  background-image: url('https://project-vanguard.netlify.app/backgrounds/what_happened.png');
+  background-image: url('backgrounds/what_happened.png');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -648,18 +648,18 @@ ul{
   height: 100vh;
 }
 
-#showcase h1{
+.showcase h1{
   font-size: 50px;
   line-height: 1.2;
   color: white;
 }
 
-#showcase p{
+.showcase p{
   font-size: 20px;
   color: white;
 }
 
-#showcase .button{
+.showcase .button{
   font-size: 18px;
   text-decoration: none;
   color: white;
@@ -670,7 +670,7 @@ ul{
   transition: 0.1s ease-in;
 }
 
-#showcase .button:hover{
+.showcase .button:hover{
   transition: 0.1s ease-in;
   letter-spacing: 1px;
 }
