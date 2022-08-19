@@ -635,6 +635,20 @@ ul{
   height: 100vh;
 }
 
+.yearBanner{
+  background-image: url('backgrounds/review.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+  height: 100vh;
+}
+
+
 #showcase2{
   background-image: url('backgrounds/what_happened.png');
   background-size: cover;
