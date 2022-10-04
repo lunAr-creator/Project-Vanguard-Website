@@ -14,6 +14,8 @@ If you wish to contribute, please open a pull request with your changes for appr
 <ul>
   <li> Numens </li>
   <li> r0nyyn </li>
+  <li> Sekyom </li>
+  <li> L3gerity </li>
 </ul>
 
 ## Further Details
